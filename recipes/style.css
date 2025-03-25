@@ -1,6 +1,7 @@
 * {
     background-color: black;
     color: white;
+    text-align: center;
 }
 .h1 {
     font-family: 'Courier New', Courier, monospace;
@@ -10,4 +11,9 @@
 
 .first {
     color: beige;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
 }
