@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+}
+.h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+
+.first {
+    color: beige;
+}
