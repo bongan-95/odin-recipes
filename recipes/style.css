@@ -2,6 +2,8 @@
     background-color: black;
     color: white;
     text-align: center;
+    outline: 2px solid red;
+    display: block;
 }
 .h1 {
     font-family: 'Courier New', Courier, monospace;
