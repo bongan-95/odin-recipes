@@ -2,20 +2,25 @@
     background-color: black;
     color: white;
     text-align: center;
-    outline: 2px solid red;
     display: block;
 }
-.h1 {
+div {
     font-family: 'Courier New', Courier, monospace;
     font-size: xx-large;
     font-weight: lighter;
 }
-
-.first {
-    color: beige;
+img {
+    width: 100%;
+    height: auto;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: lighter;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
+a {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
 }
